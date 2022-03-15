@@ -1,1 +1,3 @@
-
+enter the string :arjun
+the reversea of thr string is :nujra ^C
+ 
